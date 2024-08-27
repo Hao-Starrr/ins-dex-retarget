@@ -9,7 +9,10 @@
 ## Related Projects
 
 <a href="https://github.com/Improbable-AI/VisionProTeleop">VisionProTeleop</a>
+
 <a href="https://yzqin.github.io/anyteleop/">AnyTeleop</a>
+
+更高自由度的灵巧手 retargeting 项目：
 <a href="https://github.com/dexsuite/dex-retargeting/">dex-retargeting</a>
 
 ## 输入数据
